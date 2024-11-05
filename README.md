@@ -46,5 +46,3 @@ Integrate learned techniques in a final project, applying ML to a real-world pro
 - **Activities**: Final project, presentations, reflection on key takeaways
 
 ---
-
-This curriculum provides a foundation for analyzing data across various domains, equipping you with versatile machine learning and data science skills.
