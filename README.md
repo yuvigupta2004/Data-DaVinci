@@ -1,9 +1,7 @@
-# WiDS Intro to ML for Finance
+# WiDS Intro to ML
 
-Welcome to the **WiDS Intro to Machine Learning for Finance** course! This repository contains code, resources, and materials to guide you through foundational machine learning concepts with applications in finance. Each week focuses on a specific machine learning technique or analysis method, building skills for real-world financial data analysis.
-<br>
-This is the notion link for a more descriptive description of the project:
-https://mixed-kicker-35e.notion.site/WiDS-133a3500180b80d1a153e8c59cfa3897
+Welcome to the **WiDS Intro to Machine Learning** course! This repository contains code, resources, and materials to guide you through foundational machine learning concepts. Each week focuses on a specific machine learning technique or analysis method, building skills for real-world data analysis.
+
 
 ---
 
