@@ -1,6 +1,6 @@
-# WiDS Intro to ML
+# Data Da Vinci
 
-Welcome to the **WiDS Intro to Machine Learning** course! This repository contains code, resources, and materials to guide you through foundational machine learning concepts. Each week focuses on a specific machine learning technique or analysis method, building skills for real-world data analysis.
+Welcome to the **Data Da Vinci**! This repository contains code, resources, and materials to guide you through foundational machine learning concepts. Each week focuses on a specific machine learning technique or analysis method, building skills for real-world data analysis.
 
 
 ---
